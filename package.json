@@ -1,0 +1,21 @@
+{
+    "name": "firestone-theme",
+    "displayName": "Firestone Theme",
+    "description": "Firestone theme for vs code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Firestone Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Firestone Theme-color-theme.json"
+            }
+        ]
+    }
+}
