@@ -2,6 +2,7 @@
     "name": "firestone-theme",
     "displayName": "Firestone Theme",
     "description": "Firestone theme for vs code",
+    "publisher": "utkarshdhiman48",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.56.0"
@@ -17,5 +18,10 @@
                 "path": "./themes/Firestone Theme-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/utkarsh48/firestone-theme-vscode.git"
     }
+
 }
