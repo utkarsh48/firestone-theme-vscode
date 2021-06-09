@@ -764,7 +764,8 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#e49337",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -829,12 +830,6 @@
 			"scope": "keyword",
 			"settings": {
 				"foreground": "#569CD6"
-			}
-		},
-		{
-			"scope": "keyword.control",
-			"settings": {
-				"foreground": "#dd5858"
 			}
 		},
 		{
@@ -978,7 +973,8 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#dd5858"
+				"foreground": "#58a1dd",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -994,7 +990,6 @@
 		},
 		{
 			"scope": [
-				"variable.other.constant",
 				"variable.other.enummember"
 			],
 			"settings": {
@@ -1060,7 +1055,7 @@
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#F1D764"
+				"foreground": "#f1c064"
 			}
 		},
 		{
@@ -1072,7 +1067,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#F1D764"
+				"foreground": "#f1c064"
 			}
 		},
 		{
@@ -1141,7 +1136,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#8cc1f7"
+				"foreground": "#bfdfff"
 			}
 		},
 		{
@@ -1177,7 +1172,8 @@
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#F35F6E"
+				"foreground": "#F35F6E",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1213,15 +1209,11 @@
 			}
 		},
 		{
-			"scope": "variable",
+			"scope": ["variable", 
+				"variable.other"
+			],
 			"settings": {
-				"foreground": "#F1D764"
-			}
-		},
-		{
-			"scope": "variable.other",
-			"settings": {
-				"foreground": "#f0cc8a"
+				"foreground": "#fcfaf7",
 			}
 		},
 		{
@@ -1309,12 +1301,6 @@
 			"scope": "support.constant",
 			"settings": {
 				"foreground": "#FF79B8"
-			}
-		},
-		{
-			"scope": "support.variable",
-			"settings": {
-				"foreground": "#35E9C2"
 			}
 		},
 		{
