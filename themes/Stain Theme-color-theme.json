@@ -10,6 +10,7 @@
 		"activityBar.inactiveForeground": "#798186",
 		"activityBarBadge.background": "#cc7716",
 		"activityBarBadge.foreground": "#fafbfc",
+		"activityBar.activeFocusBorder": "#cc7716",
 		"badge.background": "#cc77167f",
 		"badge.foreground": "#fafbfc",
 		"breadcrumb.activeSelectionForeground": "#dce3e8",
@@ -87,7 +88,7 @@
 		"editor.linkedEditingBackground": "#a1bbff22",
 		"editor.selectionBackground": "#a1bbff44",
 		"editor.selectionHighlightBackground": "#4dbbff20",
-		"editor.selectionHighlightBorder": "#4dbbff00",
+		"editor.selectionHighlightBorder": "#f27c38",
 		"editor.stackFrameHighlightBackground": "#c6902625",
 		"editor.wordHighlightBackground": "#4dbbff00",
 		"editor.wordHighlightStrongBackground": "#4dbbff00",
@@ -137,7 +138,7 @@
 		"menu.separatorBackground": "#bbbbbb",
 		"menubar.selectionBackground": "#fafbfc1a",
 		"menubar.selectionForeground": "#dce3e8",
-		"minimap.errorHighlight": "#ff1212b3",
+		"minimap.errorHighlight": "#ff12123b",
 		"minimap.findMatchHighlight": "#d18616",
 		"minimap.selectionHighlight": "#264f78",
 		"minimap.warningHighlight": "#cca700",
@@ -168,7 +169,7 @@
 		"notebookStatusSuccessIcon.foreground": "#89d185",
 		"notificationCenterHeader.background": "#1e2123",
 		"notificationCenterHeader.foreground": "#dce3e8",
-		"notificationLink.foreground": "#79b8ff",
+		"notificationLink.foreground": "#f27c38",
 		"notifications.background": "#2c3039",
 		"notifications.border": "#191b1c",
 		"notifications.foreground": "#dce3e8",
@@ -235,7 +236,7 @@
 		"textBlockQuote.border": "#424a4f",
 		"textCodeBlock.background": "#2c3039",
 		"textLink.activeForeground": "#fafbfc",
-		"textLink.foreground": "#79b8ff",
+		"textLink.foreground": "#f27c38",
 		"textPreformat.foreground": "#dce3e8",
 		"textSeparator.foreground": "#424a4f",
 		"titleBar.activeBackground": "#1e2123",
@@ -586,7 +587,8 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#f27c38",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -852,7 +854,8 @@
 				"keyword.operator.wordlike"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#f1c064",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1079,7 +1082,7 @@
 		{
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#19df83"
+				"foreground": "#49e09a"
 			}
 		},
 		{
@@ -1115,7 +1118,7 @@
 		{
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#b791ff"
+				"foreground": "#70B3FF"
 			}
 		},
 		{

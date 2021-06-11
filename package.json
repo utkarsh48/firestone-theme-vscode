@@ -1,7 +1,7 @@
 {
-    "name": "firestone-theme",
-    "displayName": "Firestone Theme",
-    "description": "Firestone theme for vs code",
+    "name": "stain-theme",
+    "displayName": "Stain Theme",
+    "description": "Stain theme for vs code",
     "publisher": "utkarshdhiman48",
     "version": "0.1.1",
     "engines": {
@@ -13,15 +13,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Firestone Theme",
+                "label": "Stain Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Firestone Theme-color-theme.json"
+                "path": "./themes/Stain Theme-color-theme.json"
             }
         ]
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/utkarsh48/firestone-theme-vscode.git"
+        "url": "https://github.com/utkarsh48/stain-theme-vscode.git"
     }
-
 }
