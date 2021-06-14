@@ -3,7 +3,8 @@
     "displayName": "Stain Theme",
     "description": "Stain theme for vs code",
     "publisher": "utkarshdhiman48",
-    "version": "0.1.1",
+    "icon": "images/Logo.png",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.56.0"
     },
