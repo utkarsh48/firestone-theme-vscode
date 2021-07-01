@@ -4,7 +4,7 @@
     "description": "Stain theme for vs code",
     "publisher": "utkarshdhiman48",
     "icon": "images/Logo.png",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.56.0"
     },
